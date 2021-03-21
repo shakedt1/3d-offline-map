@@ -1,6 +1,6 @@
 # 3d-offline-map
 
-A guide of how to create 3d map offline using Cesium and openlayers. 
+A guide of how to create 3d web map offline using Cesium and openlayers. 
 
 ## Installation
 
